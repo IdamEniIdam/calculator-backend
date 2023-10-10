@@ -26,10 +26,11 @@ A simple web-based calculator application built with React for the frontend and 
    cd calculator-app
    npm start
 
-   for backend run
-  run node src/app.js in the terminal to start the server
+   for backend 
+   git clone https://github.com/IdamEniIdam/calculator-backend.git
+  run 
+  node src/app.js in the terminal to start the server
 
-git clone
 
 API Endpoints (Backend)
 POST /api/calculate: Calculate a mathematical expression and save it to the history.
